@@ -14,4 +14,4 @@ Options +FollowSymLinks
 ErrorDocument 404 default.html
 
 # Set the default handler.
-DirectoryIndex default.html
+DirectoryIndex index.html
