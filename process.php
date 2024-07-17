@@ -1,5 +1,4 @@
 <?php
-$mailto = "tkilbour@gmail.com";
 $mailto2 = "mandjcaulking@q.com";
 $subject = "Form Results";
 foreach($_POST as $key => $value) {
