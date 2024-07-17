@@ -1,0 +1,109 @@
+/*
+#162b5d blue
+#c0d1dc light blue
+#75695c brown
+#121926 dark blue
+*/
+
+body {
+	background-color:#121926;
+	font-family:Arial, Helvetica, sans-serif;
+}
+div.main {
+	width:860px;
+	background-color:white;
+	background-image:url(images/bg1.png);
+	background-repeat:repeat-y;
+	margin:auto;
+}
+#menu {
+	width:170px;
+	float:right;
+	border-left:solid 2px #c0d1dc;
+	margin-top:6px;
+	margin-bottom:6px;
+}
+#menu li {
+	font-weight:bold;
+	list-style:none;
+	list-style-image:none;
+	list-style-type:none;
+	margin-bottom:8px;
+	margin-top:8px;
+}
+.content {
+	float:left;
+	width:840px;
+	font-size:10pt;
+	padding-left:12px;
+}
+.content1 {
+	float:left;
+	width:670px;
+	font-size:10pt;
+	padding-left:12px;
+	height:171px;
+}
+a {
+	color:#75695c;
+	text-decoration:none;
+	font-weight:bold;
+}
+a:hover {
+	text-decoration:underline;
+}
+.footer {
+	color:black;
+	background-color:#c0d1dc;
+	clear:both;
+	font-size:10pt;
+}
+.footer a {
+	
+}
+.footer-text {
+	color:white;
+	padding-left:8px;
+	font-size:9pt;
+}
+h2 {
+	color:#121926;
+	font-size:18pt;
+	font-weight:bold;
+}
+.logo {
+	background-image:url(images/logo.png);
+	background-repeat:no-repeat;
+	background-position:top left;
+	height:171px;
+}
+.bmargin {
+	margin-bottom:8px;
+}
+.divider {
+	background-color:#121926;
+	clear:both;
+}
+.contractors {
+	width:800px;
+	margin:auto;
+	height:160px;
+}
+.contractors div {
+	text-align:center;
+	width:200px;
+	height:70px;
+	float:left;
+}
+h3 {
+	color:#121926;
+}
+.logos {
+	border-top:solid 2px #c0d1dc;
+	padding-top:10px;
+	text-align:center;
+}
+#contact-form {
+	width:340px;
+	float:right;
+}
